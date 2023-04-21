@@ -1,0 +1,17 @@
+{
+    "version": "V2",
+    "shouldUpdateInfo": true,
+    "label": {
+        "update": true,
+        "text": "",
+        "row": 0,
+        "column": 0
+    },
+    "link": {
+        "update": true,
+        "text": "HLSHOPGAME.COM",
+        "url": "https://hlshopgame.com",
+        "row": 0,
+        "column": 1
+    }
+}
